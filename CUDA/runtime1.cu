@@ -62,7 +62,7 @@ int main()
 
     // Check result
 
-    for(int i=0;i<5;i++)
+    for(int i=0;i<N;i++)
     {
         std::cout
             << h_A[i]
