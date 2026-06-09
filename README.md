@@ -69,7 +69,7 @@ Each directory contains self-contained examples and exercises. Refer to individu
 
 ## 📚 Course Context
 
-This repository is part of the **Quantum Computation** curriculum, providing foundational knowledge in high-performance computing essential for quantum simulation and computational physics applications.
+This repository is part of the HPC module of the course **Quantum Computation**, providing foundational knowledge in high-performance computing essential for quantum simulation and computational physics applications.
 
 ---
 
