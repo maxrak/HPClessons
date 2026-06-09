@@ -60,7 +60,7 @@ int main(int argc, char* argv[])
     }
 
     // Seed random number generator
-    srand(static_cast<unsigned>(time(nullptr)));
+    srand(static_cast<unsigned>(time(NULL)));
 
     size_t size = N * sizeof(float);
 
