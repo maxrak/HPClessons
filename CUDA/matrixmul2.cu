@@ -3,6 +3,7 @@
 #include <cstdlib>
 #include <cstring>
 #include <ctime>
+#include <cstdio>
 #include <algorithm>
 
 __global__
