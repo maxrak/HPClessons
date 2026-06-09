@@ -1,0 +1,3 @@
+CMDLINE /Users/massimilianorak/Development/HPClessons/Profiling/.venv/bin/python3.13 mp_esempio3_memory_leak.py
+MEM 0.140625 1780671421.6573
+MEM 45.921875 1780671421.7616

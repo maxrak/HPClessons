@@ -1,0 +1,4 @@
+CMDLINE /Users/massimilianorak/Development/HPClessons/Profiling/.venv/bin/python3.13 mp_esempio2_liste_vs_generatori.py
+MEM 0.140625 1780671492.7250
+MEM 62.140625 1780671492.8302
+MEM 36.906250 1780671492.9355
